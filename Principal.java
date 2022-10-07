@@ -98,7 +98,7 @@ public class Principal {
 			entrada_morango.join();
 			entrada_limao.join();
 			entrada_abacaxi.join();
-			Thread.sleep(6000);
+			Thread.sleep(7000);
 		} catch (InterruptedException e) {
 			e.printStackTrace();
 		}
